@@ -1,0 +1,16 @@
+Acknowledgments
+
+
+I used the Python standard scientific computing stack for this project, including:
+- NumPy: for numerical computation, linear algebra, simulation, and resampling.
+- pandas: for tabular data handling and saving TSV output files.
+
+
+I did not discuss this assignment with other students or individuals.
+
+
+Generative AI:
+I used OpenAI’s ChatGPT to help with some coding error to better understanding what was wrong with my codes.
+
+
+No other outside sources or libraries were used.
